@@ -6538,3 +6538,14 @@ ul.history li .featured-box .box-content {
 	padding: 4px;
 	border-radius: 4px;
 }
+
+ul.projetct-details {
+	list-style: none;
+	padding: 0;
+	font-size: 0.9em;
+}
+
+.tech-item {
+	padding-left: 20px !important;
+	padding-right: 15px !important;
+}
