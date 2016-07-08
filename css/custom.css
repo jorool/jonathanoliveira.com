@@ -1,1 +1,5 @@
 /* Add here all your CSS customizations */
+
+.carousel-caption {
+    color: #2c323b;
+}
