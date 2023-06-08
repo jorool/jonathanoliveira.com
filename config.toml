@@ -1,0 +1,38 @@
+languageCode = 'en-us'
+title = "Jonathan Oliveira - Software Engineer"
+
+## Profile Configurations
+[params.profile]
+  portrait = "/images/portrait-default.png"
+  firstname = "Jonathan"
+  lastname = "Oliveira"
+  title = "Software Engineer - Full Stack"
+  bio = """Software Engineer, Team Lead @ [**Infor (Canada) Ltd.**](https://www.infor.com/)
+  
+  Passionate Software Engineer with 15+ years of experience. Working professionally as a full‐stack developer focused on object‐oriented languages and modern web technologies.
+  
+  Fast learner, self‐driven, self‐managed, software craftsmanship believer, problem‐solver with a can‐do attitude, willing to deliver high‐quality software. 
+  
+  Currently, Team Lead at Infor (Canada), spearheading the redesign and re‐architecture of critical back‐of‐house and customer‐facing systems, including web, desktop, and mobile applications.
+  """
+
+[[params.actions]]
+  name = "See my Resumé"
+  url = "https://raw.githubusercontent.com/jorool/jonathanoliveira.com/master/Jonathan's Resumé.pdf"
+[[params.actions]]
+  name = "Get in touch"
+  url = "mailto:contato@jonathanoliveira.com"
+  
+## Contacts Configurations
+[params.contacts]
+  email = "contato@jonathanoliveira.com"
+  github = "jorool"
+  twitter = "jhou_olieira"
+  linkedin = "jonathanoliveira"
+  instagram = "jonathanroliveira"
+  stackoverflow = "1375674"
+
+## Footer Configurations
+[params.footer]
+  copyright = "© 2023 Jonathan Oliveira. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  poweredBy = true
